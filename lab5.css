@@ -1,0 +1,17 @@
+#block-page {
+    margin: 0;
+}
+
+table {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 800px;
+    height: 200px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
